@@ -1,0 +1,129 @@
+.n1
+{
+	text-align:center;
+	padding:30px;
+	background-color:brown;
+	height:150px;
+	
+	
+
+}
+
+.Education
+{
+	background-color:grey;
+	color:black;
+	width:150px;
+	height:60px;
+	padding-left:10px;
+	margin:20px;
+
+}
+.Project
+{
+	background-color:grey;
+	color:black;
+	width:150px;
+	height:60px;
+	padding-left:10px;
+	margin:20px;
+
+}
+.Home
+{
+	background-color:grey;
+	color:black;
+	width:150px;
+	height:60px;
+	padding-left:10px;
+	margin:20px;
+
+}
+.Hobbies
+{
+	background-color:grey;
+	color:black;
+	width:150px;
+	height:60px;
+	padding-left:10px;
+	margin:20px;
+
+}
+.Contact
+{
+	background-color:grey;
+	color:black;	
+	width:150px;
+	height:60px;
+	padding-left:10px;
+	margin:20px;
+
+}
+.bgl
+{
+	display:flex;
+	flex-direction:row;
+	background-color:black;
+	height:100px;
+	justify-content:center;
+	padding:50px;
+}
+.c3
+{
+	background-color:grey;
+	border:2px dotted black;
+	height:700px;
+	width:200px;
+	display: flex;
+	flex-direction:column;
+	 margin-top:30px;
+}
+
+a
+{
+	padding:50px;
+}
+p
+{
+	text-align:center;
+	font-size:20px;
+}
+.n6
+{
+	margin-right:200px;
+	margin-left:180px;
+	width:300px;
+}
+td,th
+{
+	border:2px solid black;
+	text-align:center;
+}
+table
+{
+	border-collapse:collapse;
+	margin:110px;
+}
+
+.n2
+{
+	display:flex;
+}
+th
+{
+	color:antiquewhite;
+}
+h1
+{
+	font-size:70px;
+	margin:0%;
+
+}
+d1
+{
+	display:flex;
+}
+
+
+
+
